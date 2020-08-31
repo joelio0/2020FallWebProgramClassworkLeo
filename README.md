@@ -2,4 +2,4 @@
 Classwork for web programming fall2020
 
 ## Third Day
-We are learning about git
+We are learning about git and github
